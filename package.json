@@ -1,7 +1,7 @@
 {
   "name": "base-react-app",
   "version": "0.1.0",
-  "homepage": "samuelliechty.github.io",
+  "homepage": "https://samuelliechty.github.io/base-react-appgit ",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
